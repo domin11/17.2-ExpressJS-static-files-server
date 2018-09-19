@@ -1,0 +1,23 @@
+{
+  "name": "expresjs.json.reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domin11/17.1-ExpresJS-json-reader.git"
+  },
+  "author": "domin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domin11/17.1-ExpresJS-json-reader/issues"
+  },
+  "homepage": "https://github.com/domin11/17.1-ExpresJS-json-reader#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
